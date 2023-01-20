@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👩🏼‍💻 I'm currently a master student at ITU Computer Engineering. --> [My ITU Repository](https://github.com/guledaaydemir/ITUCENG_AllSlides)
+- 👩🏼‍🎓 I graduated from DEU Computer Engineering. --> [My DEU Repository](https://github.com/guledaaydemir/DEUCENG_AllSlides)
+- 📲 I'm also working at TEB as a senior iOS Developer. --> [My LinkedIn Account](https://www.linkedin.com/in/gul-eda-aydemir/)
+- 🌱 I’m currently learning Bioinformatic Algorithms. 
+- 📫 How to reach me: [guledaaydemir @ gmail.com](mailto:guledaaydemir@gmail.com)
+- ⚡ Fun fact: I'm also a YouTuber! --> [My YouTube Channel](https://www.youtube.com/channel/UCdarUOf6A37Ynx5Wamdi3cQ)
+
 <!--
 **guledaaydemir/guledaaydemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
