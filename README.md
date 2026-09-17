@@ -139,10 +139,10 @@ I build mobile products with a focus on **iOS, UX, performance and clean archite
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guledaaydemir&show_icons=true&hide_border=true&hide_title=true&rank_icon=github" />
+  <a href="https://github.com/guledaaydemir">
+    <img src="https://github-stats-extended.vercel.app/api?username=guledaaydemir&show_icons=true&hide_border=true&hide_title=true&rank_icon=github" alt="GitHub Stats" />
+  </a>
 </p>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guledaaydemir&show_icons=true&hide_border=true&hide_title=true&rank_icon=github)](https://github.com/guledaaydemir)
 
 <p align="center">
   <code>currently: probably building another app</code>
