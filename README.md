@@ -142,6 +142,8 @@ I build mobile products with a focus on **iOS, UX, performance and clean archite
   <img src="https://github-readme-stats.vercel.app/api?username=guledaaydemir&show_icons=true&hide_border=true&hide_title=true&rank_icon=github" />
 </p>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guledaaydemir&show_icons=true&hide_border=true&hide_title=true&rank_icon=github)](https://github.com/guledaaydemir)
+
 <p align="center">
   <code>currently: probably building another app</code>
 </p>
